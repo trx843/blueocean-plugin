@@ -89,7 +89,7 @@
     "gulp-svgmin": "1.2.3",
     "gulp-typescript": "4.0.1",
     "harp": "0.29.0",
-    "jest": "19.0.2",
+    "jest": "26.0.0",
     "less": "2.7.2",
     "mockdate": "2.0.2",
     "node-sass": "4.11.0",
@@ -97,7 +97,7 @@
     "octicons": "4.4.0",
     "react-addons-test-utils": "15.4.2",
     "run-sequence": "1.2.2",
-    "ts-jest": "19.0.2",
+    "ts-jest": "23.1.0",
     "tsify": "4.0.0",
     "typescript": "3.3.3333",
     "watchify": "3.11.1"
